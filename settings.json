@@ -1,13 +1,13 @@
 {
-  "name": "APEX BOT",
+  "name": "UNC_BOT",
   "bot-account": {
-    "username": "APEX_BOT",
+    "username": "UNC_",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "APEXSMP-LIFESTEAL.aternos.me",
-    "port": 23723,
+    "ip": "UNCONQUERED-SMP.aternos.me",
+    "port": 57413,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm a PROUD TO BE A UNC",
+        "Don't forget the wooden pickaxe that started your entire journey",
+        "The lowest bedrock supports the highest sky"
       ]
     },
     "chat-log": true,
